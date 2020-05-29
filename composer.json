@@ -1,15 +1,15 @@
 {
-    "name": "jahanhh/php-sdk",
+    "name": "immocaster/php-sdk",
     "type": "library",
     "description": "ImmobilienScout24 PHP-SDK",
     "keywords": ["immobilienscout24","estate","real estate","realtor"],
-    "homepage": "http://github.com/jahanhh/php-sdk",
+    "homepage": "http://github.com/immocaster/php-sdk",
     "license": "FreeBSD",
     "authors": [
         {
             "name": "Norman Braun",
-            "email": "office@jahanhh.com",
-            "homepage": "http://www.jahanhh.com",
+            "email": "office@immocaster.com",
+            "homepage": "http://www.immocaster.com",
             "role": "CEO and Developer"
         }
     ],
@@ -18,7 +18,7 @@
     },
 	"autoload": {
         "classmap": [
-            "jahanhh/"
+            "Immocaster/"
         ]
     }
 }
